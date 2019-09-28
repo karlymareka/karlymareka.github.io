@@ -35,12 +35,12 @@ Next, I had to decide what kind of information would be stored in the database. 
 The app’s three main views that display information from the database to the ranger include the bear index page, the bear show page, and the park index page. The bear index page shows all the tagged bears (from any ranger) with their id. Each bear has a “More Info” link that leads to that individual bear’s show page, which lists all of the bear’s attributes. Once again, this information is available to any ranger that is logged in. The park index page lists the three national parks, the location state, and the number of tagged bears in that particular park.
 
 
-![A flash message appears if the user input is incomplete] (https://res.cloudinary.com/karlymareka/image/upload/c_scale,w_634/v1569706657/Screen_Shot_2019-09-28_at_2.37.21_PM.png)
+![A flash message appears if the user input is incomplete](https://res.cloudinary.com/karlymareka/image/upload/c_scale,w_634/v1569706657/Screen_Shot_2019-09-28_at_2.37.21_PM.png)
 
 I decided to tackle the optional challenge of adding error messages if the input validations were not met. I used Rack Flash for error messages that would be displayed if all required fields were not completed when creating a new ranger or a new bear, or if the ranger username was not unique. 
 
 
-![My very simple CSS file] (https://res.cloudinary.com/karlymareka/image/upload/c_scale,w_634/v1569706864/Screen_Shot_2019-09-28_at_2.40.44_PM.png)
+![My very simple CSS file](https://res.cloudinary.com/karlymareka/image/upload/c_scale,w_634/v1569706864/Screen_Shot_2019-09-28_at_2.40.44_PM.png)
  
 Finally, I added some pictures of black bears and grizzly bears, and a few shots of the three national parks, for a bit of visual interest. I also added minimal CSS styling (a few font and text colors changes), and used a single layout and CSS file for the entire application for simplicity and uniformity. 
 
