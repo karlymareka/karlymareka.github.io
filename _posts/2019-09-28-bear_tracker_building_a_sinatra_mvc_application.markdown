@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "***Bear Tracker: Building a Sinatra MVC Application***"
-date:       2019-09-28 22:11:12 +0000
+title:      "Bear Tracker: Building a Sinatra MVC Application"
+date:       2019-09-28 18:11:13 -0400
 permalink:  bear_tracker_building_a_sinatra_mvc_application
 ---
 
