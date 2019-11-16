@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "6 Takeaways from my Sinatra Assessment "
-date:       2019-11-16 01:25:19 +0000
+title:      "6 Takeaways from my Sinatra Assessment (I passed)"
+date:       2019-11-15 20:25:20 -0500
 permalink:  6_takeaways_from_my_sinatra_assessment
 ---
 
